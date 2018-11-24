@@ -12,7 +12,7 @@ sudo apt-get install fcitx-hangul
 3. 키보드 입력기를 ibus에서 fcitx로 변경한다.
 4. 재부팅 시 오른쪽 위에 아래의 첫번째에서 보는 것과 같은 아이콘이 생성된 것을 볼 수 있다.
 
-![1543073119942](/home/p829911/.config/Typora/typora-user-images/1543073119942.png)
+![1543073119942](/images/1543073119942.png)
 
 ## 한영 변환
 

@@ -12,7 +12,7 @@
    sudo passwd
    ```
 
-   ![1543073527838](/home/p829911/.config/Typora/typora-user-images/1543073527838.png)
+   ![](/images/1543073527838.png)
 
 
    위와 같이 비밀번호를 설정 했다면
