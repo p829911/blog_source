@@ -1,7 +1,9 @@
 ---
 title: Jupyter notebook 글꼴 설정
 date: 2018-11-26 19:51:23
-tags: Python
+tags: 
+- Python
+- Jupyter
 categories:
 - Python
 ---
