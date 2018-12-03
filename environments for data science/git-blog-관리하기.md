@@ -1,9 +1,11 @@
 ---
 title: git blog 관리하기
 date: 2018-11-26 19:50:56
-tags: git
+tags:
+- Git
+- Blog
 categories:
-- git
+- Git
 ---
 
 - 새 저장소(repository) 만들기

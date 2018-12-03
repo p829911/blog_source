@@ -1,4 +1,16 @@
-# git blog mathjax setting
+---
+title: hexo mathjax
+date: 2018-11-26 23:36:53
+tags:
+- Git
+- Blog
+- Mathjax
+categories:
+- Git
+mathjax: true
+---
+
+
 
 ### rendering engine change 
 

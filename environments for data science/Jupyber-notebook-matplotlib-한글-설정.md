@@ -1,7 +1,9 @@
 ---
 title: Jupyber notebook matplotlib 한글 설정
 date: 2018-11-26 22:25:40
-tags: Jupyter, Python
+tags: 
+- Jupyter
+- Python
 categories:
 - Python
 ---
